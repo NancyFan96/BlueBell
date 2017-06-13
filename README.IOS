@@ -1,0 +1,19 @@
+This directory is source code of the iOS App
+
+The BlueBell includes two tab view:
+
+1. the AQI Map to show the center location, the result count around, the detailed result (history) record of a certain point and it has buttons to refresh searching and focus back to user location;
+
+2. the upload view to chose a pic from camera or photo library, edit the time and location, click upload to get the AQI return as well as send the record to the cloud so that you can see it in the first view.
+
+
+Some Code Notes:
+
+1. How to Add BaiduMap SDK and custom your IU design
+
+2. Mind the delegate things
+
+3. Mind the sychronization problem when communicate with the servers
+
+
+This is my first iOS project, it still needs a lot of improvement.
