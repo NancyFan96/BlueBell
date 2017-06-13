@@ -1,0 +1,7 @@
+This is the source code for back-end
+
+bluebell is the back-end code on Apache
+
+alexnet and rgb are used for different feature extract 
+
+the code to get dataset is in alexnet

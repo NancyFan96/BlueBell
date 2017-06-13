@@ -1,0 +1,7 @@
+dataset是数据集
+checkpoint model什么的都是tensorflow的一些过程文件
+train.py其实不是train，只是对所有图片提取它们的特征
+input.py是把提取出的特征转化成tensorflow需要的数据格式
+real_train.py才是训练一个分类器的过程，会把训练得到的参数写进weight.txt中
+test.py是测试这些数据在这个训练好的分类器上的预测结果
+draw.py把这些结果画了一下
