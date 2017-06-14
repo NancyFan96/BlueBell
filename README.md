@@ -6,6 +6,8 @@
 
 iOS App named BlueBell
 
+The project page is https://github.com/NancyFan96/BlueBell
+
 
 
 ![UI](./report/UI.jpg)
